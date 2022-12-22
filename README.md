@@ -1,2 +1,2 @@
-# class23
-cannon and cannonball
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
